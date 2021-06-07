@@ -1,0 +1,68 @@
+.local {
+  background-color: crimson;
+  padding: 10px;
+  border-radius: 10px;
+  border: 3px solid #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  margin-top: 20px;
+  text-align: center;
+  margin: 10px;
+}
+
+.saldação {
+  background-color: crimson;
+  height: 180px;
+  width: 400px;
+  border-left: solid;
+  padding: 40px;
+  border-radius: 10px;
+  border: 3px solid #000;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+
+}
+
+.des {
+  background-color: crimson;
+  padding: 10px;
+  border-radius: 10px;
+  border: 3px solid #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  margin-top: 20px;
+  text-align: justify;
+  margin: 10px;
+}
+
+.ul {
+  text-align: left;
+}
+
+.desp {
+  background-color: crimson;
+  height: 160px;
+  width: 550px;
+  border-left: solid;
+  padding: 30px;
+  border-radius: 10px;
+  border: 3px solid #000;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+
+}
+
+.ass {
+  background-color: crimson;
+  height: 100px;
+  width: 550px;
+  border-left: solid;
+  padding: 40px;
+  border-radius: 10px;
+  border: 3px solid #000;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  margin-top: 10px;
+}
